@@ -6,7 +6,7 @@ This repository is designed to help you learn Java programming through practical
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/sahilvishwa07/Learning-Java
     ```
 2. Open the project in your preferred IDE.
 
@@ -18,8 +18,8 @@ This repository is designed to help you learn Java programming through practical
 
 Explore the sample code and exercises provided. Compile and run the examples:
 ```sh
-javac Example.java
-java Example
+javac variable.java
+java variable
 ```
 
 ## License
