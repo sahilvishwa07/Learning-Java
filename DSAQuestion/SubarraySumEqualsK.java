@@ -1,4 +1,4 @@
-package BasicSorting;
+package DSAQuestion;
 
 import java.util.HashMap;
 
